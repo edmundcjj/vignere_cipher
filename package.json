@@ -1,0 +1,19 @@
+{
+  "name": "vignere_cipher",
+  "version": "1.0.0",
+  "description": "Implement a Vigenere Cipher using JavaScript or Ruby. You should be able to encode and decode a word when given a keyword. [Read the Wikipedia description here](http://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher#Description\r )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmundcjj/vignere_cipher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edmundcjj/vignere_cipher/issues"
+  },
+  "homepage": "https://github.com/edmundcjj/vignere_cipher#readme"
+}
